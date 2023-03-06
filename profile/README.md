@@ -2,9 +2,9 @@
 
 
 
-🙋‍♀️ A short introduction - tlm at level model?
+🙋‍♀️ A short introduction - nutshell cycle accurate arch model
 
-🌈 Contribution guidelines -  not sure?
+🌈 Contribution guidelines -  Just do it
 
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+🧙 Remember, you can
 
